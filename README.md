@@ -19,6 +19,19 @@
 
 ---
 
+## 📊 GitHub Stats & Coding Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wartwasg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wartwasg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wartwasg&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wartwasg&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wartwasg&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+---
+
 ## 💼 Role  
 **Full-stack Developer & Mobile App Engineer**
 
