@@ -1,83 +1,174 @@
-<!-- Professional Developer Profile: Ready for Top Companies -->
+<div align="center">
 
-# Daniel Elias
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Daniel%20Elias&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer%20%C2%B7%20Mobile%20Engineer%20%C2%B7%20Backend%20Specialist&descSize=14&descAlignY=85&descColor=aaaacc" width="100%"/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-</p>
+</div>
 
----
+<div align="center">
 
-## 📊 GitHub Stats & Coding Graphs
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rmzy.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-elias-a14002344)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wartwasg)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255767113665)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wartwasg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wartwasg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wartwasg&theme=tokyonight" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wartwasg&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wartwasg&theme=tokyonight" alt="Most Commit Language"/>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+**Open to opportunities** - internships, junior roles, and collaborations in backend and mobile engineering
+
+</div>
 
 ---
 
-## 💼 Role  
-**Full-stack Developer & Mobile App Engineer**
+## About Me
+
+```text
+Name     : Daniel Elias
+Role     : Full-Stack Developer & Mobile Engineer
+Study    : BSc Software Engineering — University of Dodoma, Tanzania
+Focus    : Backend Systems · Mobile Apps · Clean Architecture
+Status   : Open to Work
+```
+
+I build robust backend systems with **Spring Boot**, cross-platform mobile apps with **Flutter**, and scalable web interfaces. I care about clean architecture, test-driven development, and shipping code that works and lasts. Currently expanding into **Python** for automation and tooling.
 
 ---
 
-## 🛠️ Core Skills  
-- **Programming Languages:** Java, Dart, JavaScript  
-- **Frameworks:** Spring Boot, Flutter  
-- **Web:** HTML5, CSS3, Vanilla JS  
-- **Mobile:** Java (Android), Flutter  
-- **DevOps & Tools:** Git, Docker, REST APIs, PostgreSQL, Linux  
-- **Testing:** JUnit, Mockito  
-- **Methodologies:** Agile, CI/CD, TDD
+## Tech Stack
+
+### Languages
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" title="Dart"/>
+
+</div>
+
+`Java` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `Dart`
 
 ---
 
-## 🚀 Notable Projects  
-- [Portfolio Website](https://portfolio-rmzy.onrender.com/) &mdash; Modern, responsive portfolio showcasing my skills and projects.
-- [GitHub Profile](https://github.com/wartwasg) &mdash; Explore my code, contributions, and open source work.
-- [LinkedIn Profile](https://www.linkedin.com/in/daniel-elias-a14002344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &mdash; Professional experience and endorsements.
+### Backend & APIs
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" title="Spring Boot"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" title="Node.js"/>
+
+</div>
+
+`Spring Boot` &nbsp; `Node.js` &nbsp; `REST APIs` &nbsp; `Microservices`
 
 ---
 
-## 🎯 Focus Areas & Interests  
-- Backend Engineering (Spring Boot, RESTful APIs)
-- Mobile App Development (Android, Flutter)
-- Scalable Web Applications (HTML, CSS, JS)
-- Database Design (PostgreSQL)
-- Cloud & DevOps (Docker, Linux)
-- Software Architecture and System Design
+### Mobile
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" title="Flutter"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" title="Android"/>
+
+</div>
+
+`Flutter` &nbsp; `Android (Java)`
 
 ---
 
-## 🌐 Social & Contact  
-<a href="https://wa.me/255767113665"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://www.linkedin.com/in/daniel-elias-a14002344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://portfolio-rmzy.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+### Frontend
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" title="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" title="CSS3"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" title="jQuery"/>
+
+</div>
+
+`React` &nbsp; `HTML5` &nbsp; `CSS3` &nbsp; `jQuery`
 
 ---
 
-## 💡 Short Bio  
-Driven Full-stack Developer and Mobile Engineer passionate about building robust backend systems, intuitive mobile apps, and scalable web solutions. I thrive in collaborative environments, love solving complex problems, and continuously learn new technologies to deliver excellence.
+### Data & DevOps
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" title="Linux"/>
+
+</div>
+
+`PostgreSQL` &nbsp; `Docker` &nbsp; `Git` &nbsp; `Linux`
 
 ---
 
-> **Let's connect and build impactful products together!**
+### Practices
+
+`TDD` &nbsp; `CI/CD` &nbsp; `Agile` &nbsp; `JUnit 5` &nbsp; `Mockito`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wartwasg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wartwasg&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wartwasg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="145"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wartwasg&theme=tokyonight" width="100%"/>
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| [**LedgerSmart**](https://ledgersmart.co.tz/) | Spring Boot · Flutter | E-commerce platform helping entrepreneurs and business owners manage their operations |
+| [**Portfolio Website**](https://portfolio-rmzy.onrender.com/) | HTML · CSS · JS | Responsive personal site showcasing skills and projects |
+
+---
+
+## What I'm Building Toward
+
+```text
+Backend Systems    ->  Spring Boot · Microservices · REST APIs
+Mobile Apps        ->  Flutter · Android
+Automation         ->  Python · Scripting
+System Design      ->  Architecture · Database Modeling
+Cloud & DevOps     ->  Docker · CI/CD · Linux
+```
+
+---
+
+## Let's Connect
+
+> Building something meaningful? I'm open to internships, junior roles, and collaborations.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rmzy.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-elias-a14002344)
+[![WhatsApp](https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255767113665)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=wartwasg&style=flat-square&color=302b63&label=profile+views" alt="Profile views"/>
+</div>
